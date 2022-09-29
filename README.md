@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @surelynotmiguel
 - 👀 I’m interested in technology stuff in general
 - 🌱 I’m currently a student in Technology in Systems Analysis and Development
+- That's it for now!
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
