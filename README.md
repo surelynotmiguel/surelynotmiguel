@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @surelynotmiguel
-- 👀 I’m interested in technology stuff in general
-- 🌱 I’m currently a student in Technology in Systems Analysis and Development
+- 👀 I’m interested in IT stuff in general
+- 🌱 I’m currently a student in the Technology in Systems Analysis and Development course at Universidade Estadual de Campinas, aka UNICAMP
+- 📫 How to reach me: [donanzammiguel@gmail.com](url)
+- 🧠 I am currently learning Java, but I also have some basic knowledge on C, C++ and Python.
 - That's it for now!
 <!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+ ... --->
 
 <!---
 surelynotmiguel/surelynotmiguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
