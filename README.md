@@ -4,10 +4,6 @@
 <li>📝 Any opportunities to improve my development skills are very welcome.</li>
 <br>
 
-<h3>Contact Information</h3>
-<li>📩 Reach me through: <a href="mailto:donanzammiguel@gmail.com">donanzammiguel@gmail.com</a></li>
-<br>
-
 <h3>My Statistics</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=surelynotmiguel&show_icons=true&btheme=dracula)
