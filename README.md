@@ -3,6 +3,7 @@
 <li>💾 I am interested in IT stuff in general, and I am currently focused on learning Java more in depth. I also have some basic knowledge of C, C++ and Python.</li>
 <li>📝 Any opportunities to improve my development skills are very welcome.</li>
 <br>
+
 **Contact Info**
 <li>📩 Reach me through: <a href="mailto:donanzammiguel@gmail.com">donanzammiguel@gmail.com</a></li>
 
