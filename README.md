@@ -8,8 +8,9 @@
 <li>📩 Reach me through: <a href="mailto:donanzammiguel@gmail.com">donanzammiguel@gmail.com</a></li>
 <br>
 
-<h3>Repository Statistics</h3>
+<h3>My Statistics</h3>
 
+![](https://github-readme-stats.vercel.app/api?username=surelynotmiguel&show_icons=true&btheme=dracula)
 ![<h3>Languages Used</h3>](https://github-readme-stats.vercel.app/api/top-langs/?username=surelynotmiguel&layout=compact)
 
 <!--- 💞️ I’m looking to collaborate on ...
