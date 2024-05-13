@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @surelynotmiguel
-- 👀 I’m interested in IT stuff in general
-- 🌱 I’m currently a student in the Technology in Systems Analysis and Development course at Universidade Estadual de Campinas, aka UNICAMP
-- 📫 How to reach me: [donanzammiguel@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFkwTFbLFrGXqQfGDtdmdkKDJCpdxQVdHfbRVjcXvCQncPvXqLhsntsqhVDqNdNWjlCg)
-- 🧠 I am currently learning Java, but I also have some basic knowledge on C, C++ and Python.
-- That's it for now!
+**Brief Intro**
+<li>👋 Hello! I'm Miguel Miranda, a 20-year-old Brazilian student of the Technology in Systems Analysis and Development course at the State University of Campinas, more commonly referred to as UNICAMP, in Brazil.</li>
+<li>💾 I am interested in IT stuff in general, and I am currently focused on learning Java more in depth. I also have some basic knowledge of C, C++ and Python.</li>
+<li>📝 Any opportunities to improve my development skills are very welcome.</li>
+<hr>
+**Contact Info**
+<li>📩 Reach me through: <a href="mailto:donanzammiguel@gmail.com">donanzammiguel@gmail.com</a></li>
+
 <!--- 💞️ I’m looking to collaborate on ...
  ... --->
 
