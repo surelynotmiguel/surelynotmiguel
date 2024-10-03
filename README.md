@@ -1,5 +1,5 @@
 <h3>Brief Introduction</h3>
-<li>👋 Hello! I'm Miguel Miranda, a 20-year-old Brazilian student of the Technology in Systems Analysis and Development course at Universidade Estadual de Campinas in Brazil, more commonly referred to as UNICAMP.</li>
+<li>👋 Hello! I'm Miguel Miranda, a 21-year-old Brazilian student of the Technology in Systems Analysis and Development course at Universidade Estadual de Campinas in Brazil, more commonly referred to as UNICAMP.</li>
 <li>💾 I am interested in IT stuff in general, and I am currently focused on learning Java more in depth. I also have some basic knowledge of C, C++ and Python.</li>
 <li>📝 Any opportunities to improve my development skills are very welcome.</li>
 <br>
